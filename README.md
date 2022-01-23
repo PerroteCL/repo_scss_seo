@@ -1,4 +1,3 @@
-#Segunda Entrega Proyecto Final
-##Se agregan animaciones en page adoptame
+#Entrega Sass y Seo
 ###CoderHouse 
-####17/01/2022 
+####22/01/2022 
