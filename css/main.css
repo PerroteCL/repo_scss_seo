@@ -2,8 +2,8 @@
 .banner {
   position: relative;
   min-height: 100vh;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(26, 26, 26, 0.3)), to(rgba(26, 26, 26, 0.3))), url(/images/index-img/banner2.jpg);
-  background: linear-gradient(rgba(26, 26, 26, 0.3), rgba(26, 26, 26, 0.3)), url(/images/index-img/banner2.jpg);
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(26, 26, 26, 0.3)), to(rgba(26, 26, 26, 0.3))), url(../images/index-img/banner2.jpg);
+  background: linear-gradient(rgba(26, 26, 26, 0.3), rgba(26, 26, 26, 0.3)), url(../images/index-img/banner2.jpg);
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
